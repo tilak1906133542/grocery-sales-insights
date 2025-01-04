@@ -86,10 +86,7 @@ The following steps were performed to clean and preprocess the data:
 
 ## How to Access
 To access this project:
-1. Clone this repository using the command:
-   ```
-   git clone <repository-url>
-   ```
+1. Clone this repository.
 2. Open the Power BI file (`blink.pbix`) in Power BI Desktop.
 3. Explore the dashboard using interactive filters and slicers.
 
