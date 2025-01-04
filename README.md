@@ -95,3 +95,23 @@ To access this project:
 ### Conclusion
 This project demonstrates an end-to-end analysis of grocery sales data using Power BI. By addressing business requirements and visualizing insights effectively, it showcases proficiency in data analysis and storytelling.
 
+# Grocery Sales Insights Dashboard
+
+This project uses Power BI to analyze grocery sales data and derive key business insights.
+
+## Dashboard Overview
+![Dashboard Overview](dashboard_overview.png)
+
+---
+
+## Key Visualizations
+### 1. Total Sales by Fat Content
+![Total Sales by Fat Content](donut_chart_fat_content.png)
+
+### 2. Fat Content by Outlet for Total Sales
+![Fat Content by Outlet for Total Sales](stacked_column_chart.png)
+
+### 3. All Metrics by Outlet Type
+![All Metrics by Outlet Type](matrix_card.png)
+
+
