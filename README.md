@@ -1,7 +1,7 @@
 # grocery-sales-insights
 This repository contains a Power BI project analyzing grocery sales data with insights on fat content, outlet type, and sales performance.
 
-# Blinkit Grocery Sales Insights
+# Blink Grocery Sales Insights
 
 This project involves the analysis of Blinkit's grocery data to generate actionable insights and visualize key business metrics using Power BI. The primary focus of this project is to understand the impact of various factors, such as item type, outlet size, and location, on total sales and other metrics.
 
